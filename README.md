@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm currently working on an ecommerce mobile app.<br>I'm looking to collaborate on anything new in tech.<br>I'm looking for help with finding a software engineering job.<br>I'm currently learning more about network+ and security+.<br>Ask me about my goals in life!<br>Fun fact: In my free time, I like to play sports and go on adventures!
-
+Hi there! 👋 I'm currently working on an exciting e-commerce mobile app, blending technology with creativity. I'm eager to collaborate on innovative tech projects and always open to learning new things. Right now, I’m exploring Network+ and Security+ to deepen my understanding of cybersecurity.<br><br>I'm also on the lookout for opportunities as a Software Engineer or IT specialist, so if you know of any or have tips, let’s connect! 😊<br><br>Fun fact: When I’m not coding, you’ll find me playing sports or out on adventures. Feel free to ask me about my goals or share yours—let’s inspire each other! 🚀
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/michelle-cao-9429b7319) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/av0caod0) 
